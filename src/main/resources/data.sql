@@ -1,0 +1,6 @@
+insert into alien values (101,'akash','java')
+insert into alien values (102,'madhuri','html')
+insert into alien values (103,'raina','salesforce')
+insert into alien values (104,'tiwari','c++')
+insert into alien values (105,'dubey','react')
+insert into alien values (106,'karan','salesforce')
